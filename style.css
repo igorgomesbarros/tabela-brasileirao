@@ -1,0 +1,116 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    margin: 0;
+}
+.topo-globo{
+    background-color: #F3F3F3;
+}
+
+.topo-globo ul{
+    margin: 0
+}
+
+.topo-globo li{
+    display: inline-block;
+    padding: 5px;
+}
+.topo-ge{
+    background-color: #3B9C01;
+    height: 30px;
+}
+
+.topo-ge ul{
+    margin: 0
+}
+
+.topo-ge li{
+    display: inline-block;
+    padding: 5px;
+}
+
+.globo{
+    color: #0669de;
+}
+.g1{
+    color: #a80000;
+}
+.globoesporte{
+    color: #3e831e;
+}
+.gshow{
+    color: #ff7f00;
+}
+.videos{
+    color: #0669de;
+}
+.menu{
+    color: #FFF;
+}
+.ge{
+    color: #FFF;
+}
+.time{
+    color: #FFF;
+}
+.brasileirao-serie-a{
+    color: #FFF;
+    text-transform: uppercase;
+}
+.buscar{
+    color: #FFF;
+}
+.float-left{
+    float: left;
+}
+.margin-rigth-25{
+    margin-right: 25rem;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 12px;
+}
+  
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+  
+td:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.tabela{
+    padding: 0px 40px;
+    width: 60%;
+}
+
+.branco{
+    background-color: #FFF;
+}
+
+.rodada {
+    text-align: center;
+    font-weight: bold;
+}
+
+.confrontos{
+    text-align: center;
+}
+
+.confrontos ul{
+    list-style-type: none;
+}
+
+.confrontos li{
+    margin-bottom: 40px;
+}
+
+img.svg-time {
+    width: 25px;
+    padding: 0px 45px;
+}
